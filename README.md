@@ -1,89 +1,78 @@
-Leetquiz - AI Coding Interview Platform
-An advanced, AI-powered platform designed to simulate real-world coding interviews. Leetquiz helps developers prepare for technical interviews by providing a dynamic, feature-rich environment for practicing DSA problems.
+# Leetquiz - AI Coding Interview Platform
 
-🎥 Video Demonstration
-(It's highly recommended to add a GIF or a link to your video demonstration here. This is the best way to quickly show off your project's features.)
+An advanced, AI-powered platform designed to simulate real-world coding interviews. **Leetquiz** helps developers prepare for technical interviews by providing a dynamic, feature-rich environment for practicing DSA problems.
 
-[Link to your project demo video]
+---
 
-✨ Core Features
-This project is a fully-featured, frontend application with a wide range of functionalities:
+## 🎥 Visual Demonstration\
 
-AI-Generated Questions: Dynamically generates unique DSA problems using the Mistral AI API.
+<img width="1366" height="768" alt="Screenshot 2025-08-05 163052" src="https://github.com/user-attachments/assets/724a3218-cef2-4f0f-8d09-ddc96993dbc7" />
 
-Multi-Language Support: Solve problems in multiple languages, including JavaScript, Python, Java, C++, C, and Go.
+---
 
-Advanced Code Editor: Features the Monaco Editor (the engine behind VS Code) with syntax highlighting and language-specific boilerplate.
+## ✨ Core Features
 
-AI-Powered Feedback: Submit your code to receive an instant, detailed evaluation from the AI, which checks for syntax, completeness, and logical correctness.
+This project is a fully-featured frontend application with a wide range of functionalities:
 
-Customizable Sessions:
+- **🤖 AI-Generated Questions**: Dynamically generates unique DSA problems using the **Mistral AI API**.
+- **🌐 Multi-Language Support**: Solve problems in **JavaScript**, **Python**, **Java**, **C++**, **C**, and **Go**.
+- **🧠 AI-Powered Feedback**: Submit your code to receive instant, detailed feedback on syntax, completeness, and logic.
+- **🧑‍💻 Advanced Code Editor**: Powered by **Monaco Editor** (the engine behind VS Code) with syntax highlighting and boilerplate for each language.
+- **🛠️ Customizable Sessions**:
+  - Topic selection from over 20 DSA topics
+  - Difficulty levels: Easy, Medium, Hard
+  - Adjustable countdown timer (0–60 minutes)
+- **📱 Fully Responsive Design**: Seamlessly works on both desktop and mobile.
+- **💻 Professional UI/UX**:
+  - Resizable panels for layout control
+  - Collapsible AI feedback section
+  - Shimmering skeleton loaders for better UX
+  - Futuristic, neuromorphic-inspired design
 
-Topic Selection: Choose from over 20 common DSA topics to focus your practice.
+---
 
-Difficulty Levels: Select Easy, Medium, or Hard questions.
+## 🛠️ Tech Stack
 
-Adjustable Timer: Set a countdown timer from 0 to 60 minutes for a realistic interview experience.
+-Frontend: React, Vite
+-Styling: Tailwind CSS
+-AI Integration: Mistral AI API
+-Code Editor: Monaco Editor (`@monaco-editor/react`) |
 
-Fully Responsive Design: A sleek, modern UI that works seamlessly on both desktop and mobile devices.
+---
 
-Professional UI/UX:
+## 🚀 Getting Started
 
-Resizable panels for a customizable layout.
+### 1. Prerequisites
 
-Collapsible feedback panel.
+Make sure you have **Node.js** and **npm** installed.
 
-Shimmering skeleton loaders for a smooth user experience.
+### 2. Installation
 
-A futuristic, neuromorphic-inspired design.
+-Clone the repository:
 
-🛠️ Tech Stack
-Frontend: React, Vite
+git clone https://github.com/your-username/Leetquiz-AI-Interviewer-.git
 
-Styling: Tailwind CSS
+-Navigate to the project folder:
 
-AI Integration: Mistral AI API
+cd Leetquiz-AI-Interviewer
 
-Code Editor: Monaco Editor (@monaco-editor/react)
-
-UI Components: react-resizable-panels, react-circular-progressbar, react-markdown
-
-🚀 Getting Started
-To run this project locally, follow these steps:
-
-1. Prerequisites
-Make sure you have Node.js and npm installed on your machine.
-
-2. Installation
-Clone the repository:
-
-git clone [https://github.com/your-username/Leetquiz-AI-Interviewer-.git](https://github.com/your-username/Leetquiz-AI-Interviewer-.git)
-
-Navigate to the project directory:
-
-cd Leetquiz-AI-Interviewer-
-
-Install the dependencies:
+-Install dependencies:
 
 npm install
 
-3. Set Up Your API Key
-This project requires a Mistral AI API key to function.
+### 3. Set Up Your API Key
 
-Create a file named .env.local in the root of the project.
-
-Add your API key to the file as follows:
+Create a .env.local file in the root directory:
 
 VITE_MISTRAL_API_KEY="YOUR_API_KEY_HERE"
 
-4. Run the Application
-Start the development server:
+### 4. Run the Application
 
 npm run dev
+The app will be live at http://localhost:5173
 
-The application will be available at http://localhost:5173.
 
-👤 Author
+### 👤 Author
 Priyanshu Singh Chauhan
 
-LinkedIn: [Your LinkedIn Profile URL]
+📎Linkedin: https://www.linkedin.com/in/priyanshusinghchauhan/
