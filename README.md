@@ -33,10 +33,10 @@ This project is a fully-featured frontend application with a wide range of funct
 
 ## 🛠️ Tech Stack
 
-- **Frontend: React, Vite
-- **Styling: Tailwind CSS
-- **AI Integration: Mistral AI API
-- **Code Editor: Monaco Editor (`@monaco-editor/react`) |
+- Frontend: React, Vite
+- Styling: Tailwind CSS
+- AI Integration: Mistral AI API
+- Code Editor: Monaco Editor (`@monaco-editor/react`) |
 
 ---
 
@@ -48,15 +48,15 @@ Make sure you have **Node.js** and **npm** installed.
 
 ### 2. Installation
 
-- **Clone the repository:
+- Clone the repository:
 
 git clone https://github.com/your-username/Leetquiz-AI-Interviewer-.git
 
-- **Navigate to the project folder:
+- Navigate to the project folder:
 
 cd Leetquiz-AI-Interviewer
 
-- **Install dependencies:
+- Install dependencies:
 
 npm install
 
