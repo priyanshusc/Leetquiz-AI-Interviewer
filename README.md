@@ -4,7 +4,7 @@ An advanced, AI-powered platform designed to simulate real-world coding intervie
 
 ---
 
-## 🎥 Visual Demonstration\
+## 🎥 Visual Demonstration
 
 <img width="1366" height="768" alt="Screenshot 2025-08-05 163052" src="https://github.com/user-attachments/assets/724a3218-cef2-4f0f-8d09-ddc96993dbc7" />
 
@@ -48,15 +48,15 @@ Make sure you have **Node.js** and **npm** installed.
 
 ### 2. Installation
 
-**Clone the repository:
+- **Clone the repository:
 
 git clone https://github.com/your-username/Leetquiz-AI-Interviewer-.git
 
-**Navigate to the project folder:
+- **Navigate to the project folder:
 
 cd Leetquiz-AI-Interviewer
 
-**Install dependencies:
+- **Install dependencies:
 
 npm install
 
