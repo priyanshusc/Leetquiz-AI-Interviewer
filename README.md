@@ -40,6 +40,14 @@ This project is a fully-featured frontend application with a wide range of funct
 
 ---
 
+## ⚠️ Important Note on API Key
+This project uses the Mistral AI API to fetch coding questions.
+To run the app properly, you must provide your own API key.
+
+If you run the project without setting your API key, you’ll see the following error in the app:
+
+❌ Failed to get questions. Check your console.
+
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
