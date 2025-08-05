@@ -33,10 +33,10 @@ This project is a fully-featured frontend application with a wide range of funct
 
 ## 🛠️ Tech Stack
 
--Frontend: React, Vite
--Styling: Tailwind CSS
--AI Integration: Mistral AI API
--Code Editor: Monaco Editor (`@monaco-editor/react`) |
+- **Frontend: React, Vite
+- **Styling: Tailwind CSS
+- **AI Integration: Mistral AI API
+- **Code Editor: Monaco Editor (`@monaco-editor/react`) |
 
 ---
 
